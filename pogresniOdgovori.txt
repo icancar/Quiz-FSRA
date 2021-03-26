@@ -1,0 +1,294 @@
+1. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Z3 = 450 teeth
+2. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 2.5
+3. <html>When the velocity of the vehicle is 126 [km/h], <br/>the normal load on the tyre conact surface is double compared to load when it stands (v=0). <br/>Calculate the drag force acting on the vehicle at this velocity if its lif-to-drag ratio is 2,35 [-] and its mass is 250 [kg] (g=9,81 m/s2)</html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 1043,6 [N]
+4. The engine specific fuel consumption is 210 g/kWh of the fuel defined by lower heating value 42,7 MJ/kg. What is the total efficiency of the engine?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 40.1 %
+5. Concerning aerodynamic devices which statement is not compliant to the rules?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: All aerodynamic devices in front of the front axle and extending further outboard than the most inboard point of the front tire/wheel must be higher than 250 mm from the Ground
+6. What kind of Fire Extinguishers are allowed to be used at FSG?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: dry chemical/dry powder
+7. Which is true about pop-off / recirculation valves in boosted applications?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: they may only be connected to the intage section between the compressor and the throttle body
+8. The 'weight transfer' (in N) during cornering is dependent on:
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Lateral acceleration, track width, CoG height, vehicle mass
+9. What is the minimum volume of an oil catch-can connected to a vent of a transmission containing 14 liters of oil?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 1.4 liter
+10. How is the penalty calculated for the time taken for mechanical inspection under a 'mechanical black flag' at the Endurance?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: No time penalty
+11. At which location on the FSG site is smoking permitted?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Alongside the pits and inside Event Control.
+12. What type of fire extinguisher is required
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Each team must have at least two(2) 0.9kg (2 lb.) dry chemical/dry powder
+1. 
+	PREDATI ODGOVOR: [40]
+	TACAN ODGOVOR: 
+2. <html>A Carnot engine absorbs 300J of heat from a reservoir </br> at the temperature of the normal boiling point of water </br> and rejects heat to a reservoid at the temperature of the </br> tripple point of water. The work done by the engine is: </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 80.38 J
+3. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 40 rpm, counter-clockwise
+4. <html>For the 4-cylinder, 4-stroke engine with a displacement of 3 1372cm Vh <br/>What is the specific fuel consumption? For one engine operating mode the following quantities were measured: <br/> engine speed: 5800 r/min <br/> effective motor power: 94.52 kW <br/> mean volume air flow: 3062,6 l/min <br/>  fuel consumption: 100 cm3 <br/> fuel consumption measurement interval: 17.9 <br/> mean pressure drop in the intake system: 9.4 MPa <br/> mean temperature in the intake ststem: 48C <br/> During the measurement, the ambient pressure is 989 mbar and temperature is 24 deg.C. Stoichiometric ratio of the used fuel is 14.7. Fuel density is 3 752kg/m.<br/>  Round to one decimal. </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 285.7
+5. <html>Time keeping has registered a total time of 21,10 min for the fastest endurance vehicle </br> but it knocked 3 cones (DOO). Our team as a total time of 25min but </br> we knocked 3 cones (DOO) and we did 2 off-course (OC). </br> What is the difference between our endurace score with included penalties and enduracne score when penalties are not included? </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 9.91
+6. <html>A hollow shaft is subjected to a torque of 40 kN-m and a bending moment of 60 kN-m. </br>Equivalent torque in kN-m will be: </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 72
+7. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 13211
+8. <html> A weight falls on a collar rigidly attached to the lower end of a vertical bar 5m long and 800 mm2 in section. </br> If the maximum instantaneous extension is 2mm, then stress in the bar in MPa will be (Take E = 200 GPa) </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 80
+9. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 5.66N
+10. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Ps
+11. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: A to D
+12. <html>The distance between two parallel shaft is 20 mm and they are connected by an Oldham's coupling. </br> The driving shaft revolves at 200 rpm. What will be the maximum speed of sliding of the tongue </br> of the intermediate piece along its groove?</html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 0.42 m/s
+13. A gas weighs 19.62 N/m3 at 25 deg.C. The density of the gas in kg/m3 will be:
+	PREDATI ODGOVOR: [Not possible]
+	TACAN ODGOVOR: 13.867 m/s
+1. 
+	PREDATI ODGOVOR: [0.02 mm]
+	TACAN ODGOVOR: 0.09 mm
+2. 
+	PREDATI ODGOVOR: [4.91N]
+	TACAN ODGOVOR: 5.66N
+3. <html> A weight falls on a collar rigidly attached to the lower end of a vertical bar 5m long and 800 mm2 in section. </br> If the maximum instantaneous extension is 2mm, then stress in the bar in MPa will be (Take E = 200 GPa) </html>?
+	PREDATI ODGOVOR: [100]
+	TACAN ODGOVOR: 80
+4. 
+	PREDATI ODGOVOR: [1 kg]
+	TACAN ODGOVOR: 4 kg
+5. <html>A bar of 20 mm diameter is tested in tension. When a load of 38 kN was applied extension of 0.12 mm </br> was measured over a length of 200 mm and contraction in diameter was 0.004 mm. </br> If Young's modulus is 2 x 10^5 N/mm2 then the value of modulus of rigidity is: </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 75000 N/mm2
+6. What category in engineering design gives you least points?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Engineering Design Report
+7. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: -0.7735 rad/s2
+8. Which statement is true?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: When the push bar is attached to the vehicle, the engine must remain switched off.
+9. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 3:6:2
+10. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: A to D
+11. A thin cylindrical tube 100mm internal diameter and 6mm thick, is closed at the ends and is subjected to an internal pressure of 8 MN/mm2. If torsional shear stress applied to the tube is 40 MN/mm2, then the maximum shear stress in MN/m2 will be:
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 43.3
+12. <html>The distance between two parallel shaft is 20 mm and they are connected by an Oldham's coupling. </br> The driving shaft revolves at 200 rpm. What will be the maximum speed of sliding of the tongue </br> of the intermediate piece along its groove?</html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 0.42 m/s
+13. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 74.492 MPa
+14. 
+	PREDATI ODGOVOR: [P]
+	TACAN ODGOVOR: Ps
+1. <html>A 40cm diameter pipe, conveying water, branches into two pipes of diameter 20cm </br> and 15 cm respectively. If the average velocity in the 40cm diameter pipe and 20cm diameter pipe </br> are 3.0 m/s and 4.2 m/s respectively then the velocity in 15cm diameter pipe will be: </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 13.867 m/s
+2. A simply supported beam of 2 m span carries a triangular load of 20kN. The magnitude of maximum shear force in kN will be: 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 10
+3. <html>A hollow shaft is subjected to a torque of 40 kN-m and a bending moment of 60 kN-m. </br>Equivalent torque in kN-m will be: </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 72
+4. Which process in IC engine is represented int he following picture?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: intake and exhaust
+5. For maximum range of a projectile, the angle of projection should be:
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 45 deg.
+6. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 13211
+7. Allowed fuel for the competition is?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: With cetane number = 100.
+8. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 40 rpm, counter-clockwise
+9. <html>A thin cylindrical tube 100mm internal diameter and 6 mm thick</br>is closed at the ends and is subjected to an internal pressure of 8MN/mm2. </br> If torsional shear stress applied to the tube is 40 MN/m2, then the maximum shear stress in MN/m2 will be: </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 43.3
+10. What is correct?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: The team can be penalized for not being capable of explaining the general design of the vehicle.
+11. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 
+12. If a cooling system has a 900 ml of plain water, a catch can has to have?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Volume of 0.1 l.
+13. <html>A Carnot engine absorbs 300J of heat from a reservoir </br> at the temperature of the normal boiling point of water </br> and rejects heat to a reservoid at the temperature of the </br> tripple point of water. The work done by the engine is: </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 80.38 J
+14. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: a,b,c,d,e,f, and g
+15. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: -24
+1. A simply supported beam of 2 m span carries a triangular load of 20kN. The magnitude of maximum shear force in kN will be: 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 10
+2. Which process in IC engine is represented int he following picture?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: intake and exhaust
+3. <html>A Carnot engine absorbs 300J of heat from a reservoir <br/> at the temperature of the normal boiling point of water <br/> and rejects heat to a reservoid at the temperature of the <br/> tripple point of water. The work done by the engine is: </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 80.38 J
+4. <html>Time keeping has registered a total time of 21,10 min for the fastest endurance vehicle <br/> but it knocked 3 cones (DOO). Our team as a total time of 25min but <br/> we knocked 3 cones (DOO) and we did 2 off-course (OC). <br/> What is the difference between our endurace score with included penalties and enduracne score when penalties are not included? </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 9.91
+5. <html>A thin cylindrical tube 100mm internal diameter and 6 mm thick<br/>is closed at the ends and is subjected to an internal pressure of 8MN/mm2. <br/> If torsional shear stress applied to the tube is 40 MN/m2, then the maximum shear stress in MN/m2 will be: </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 43.3
+6. Which statement is true?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: When the push bar is attached to the vehicle, the engine must remain switched off.
+7. <html>A bar of 20 mm diameter is tested in tension. When a load of 38 kN was applied extension of 0.12 mm <br/> was measured over a length of 200 mm and contraction in diameter was 0.004 mm. <br/> If Young's modulus is 2 x 10^5 N/mm2 then the value of modulus of rigidity is: </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 75000 N/mm2
+8. <html>A hollow shaft is subjected to a torque of 40 kN-m and a bending moment of 60 kN-m. <br/>Equivalent torque in kN-m will be: </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 72
+9. A gas weighs 19.62 N/m3 at 25 deg.C. The density of the gas in kg/m3 will be:
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 13.867 m/s
+10. For maximum range of a projectile, the angle of projection should be:
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 45 deg.
+11. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 13211
+12. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: a,b,c,d,e,f, and g
+13. What category in engineering design gives you least points?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Engineering Design Report
+14. <html>A hollow shaft is subjected to a torque of 40 kN-m and a bending moment of 60 kN-m. <br/>Equivalent torque in kN-m will be: </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 72
+1. <html>A hollow shaft is subjected to a torque of 40 kN-m and a bending moment of 60 kN-m. <br/>Equivalent torque in kN-m will be: </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 72
+2. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 40 rpm, counter-clockwise
+3. <html>The distance between two parallel shaft is 20 mm and they are connected by an Oldham's coupling. <br/> The driving shaft revolves at 200 rpm. What will be the maximum speed of sliding of the tongue <br/> of the intermediate piece along its groove?</html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 0.42 m/s
+4. For maximum range of a projectile, the angle of projection should be:
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 45 deg.
+5. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 3:6:2
+6. <html>A hollow shaft is subjected to a torque of 40 kN-m and a bending moment of 60 kN-m. <br/>Equivalent torque in kN-m will be: </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 72
+7. <html>A bar of 20 mm diameter is tested in tension. When a load of 38 kN was applied extension of 0.12 mm <br/> was measured over a length of 200 mm and contraction in diameter was 0.004 mm. <br/> If Young's modulus is 2 x 10^5 N/mm2 then the value of modulus of rigidity is: </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 75000 N/mm2
+8. <html>A 40cm diameter pipe, conveying water, branches into two pipes of diameter 20cm <br/> and 15 cm respectively. If the average velocity in the 40cm diameter pipe and 20cm diameter pipe <br/> are 3.0 m/s and 4.2 m/s respectively then the velocity in 15cm diameter pipe will be: </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 13.867 m/s
+9. <html> A best time registered for acceleration event is 9s, and no cones were knocked.  <br/> Our team time for acceleration event was 12s, however we knocked 1 cone (DOO). <br/> What is our acceleration score?</html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 0
+10. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 13211
+11. A thin cylindrical tube 100mm internal diameter and 6mm thick, is closed at the ends and is subjected to an internal pressure of 8 MN/mm2. If torsional shear stress applied to the tube is 40 MN/mm2, then the maximum shear stress in MN/m2 will be:
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 43.3
+12. What is correct?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: The team can be penalized for not being capable of explaining the general design of the vehicle.
+13. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: a,b,c,d,e,f, and g
+14. <html>Time keeping has registered a total time of 21,10 min for the fastest endurance vehicle <br/> but it knocked 3 cones (DOO). Our team as a total time of 25min but <br/> we knocked 3 cones (DOO) and we did 2 off-course (OC). <br/> What is the difference between our endurace score with included penalties and enduracne score when penalties are not included? </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 9.91
+15. The ignition quality of petrol is expressed by:
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Octane number
+1. Allowed fuel for the competition is?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: With cetane number = 100.
+2. Which statement is true?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: When the push bar is attached to the vehicle, the engine must remain switched off.
+3. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: P
+4. <html>A thin cylindrical tube 100mm internal diameter and 6 mm thick<br/>is closed at the ends and is subjected to an internal pressure of 8MN/mm2. <br/> If torsional shear stress applied to the tube is 40 MN/m2, then the maximum shear stress in MN/m2 will be: </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 43.3
+5. What category in engineering design gives you least points?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Engineering Design Report
+6. <html> A weight falls on a collar rigidly attached to the lower end of a vertical bar 5m long and 800 mm2 in section. <br/> If the maximum instantaneous extension is 2mm, then stress in the bar in MPa will be (Take E = 200 GPa) </html>?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 80
+7. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: -0.7735 rad/s2
+8. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 0.09 mm
+9. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 74.492 MPa
+10. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 4 kg
+11. <html>A Carnot engine absorbs 300J of heat from a reservoir <br/> at the temperature of the normal boiling point of water <br/> and rejects heat to a reservoid at the temperature of the <br/> tripple point of water. The work done by the engine is: </html>
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 80.38 J
+12. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: A to D
+13. If a cooling system has a 900 ml of plain water, a catch can has to have?
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: Volume of 0.1 l.
+14. A simply supported beam of 2 m span carries a triangular load of 20kN. The magnitude of maximum shear force in kN will be: 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: 10
+15. 
+	PREDATI ODGOVOR: []
+	TACAN ODGOVOR: -24
